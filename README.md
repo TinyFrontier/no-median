@@ -1,5 +1,7 @@
 # NoMedian
 
+[![skills.sh](https://skills.sh/b/TinyFrontier/no-median)](https://skills.sh/TinyFrontier/no-median)
+
 **AI generates the median. NoMedian makes it design.**
 
 NoMedian is a portable Agent Skill for turning AI-generated interface work

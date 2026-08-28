@@ -1,5 +1,5 @@
 ---
-name: tasteforge
+name: no-median
 description: >-
   Design or redesign product interfaces with AI using explicit constraints,
   references, multiple off-code variants, taste reflection, subtraction,
@@ -8,7 +8,7 @@ description: >-
   data-visualization, or backend-only tasks.
 ---
 
-# TasteForge
+# NoMedian
 
 Turn fast AI-generated interface work into a coherent product design.
 
@@ -35,7 +35,7 @@ Turn fast AI-generated interface work into a coherent product design.
 ## Workflow
 
 1. **Route the request and load context.** Find the project's design sources. If
-   `design/tasteforge-feedback.md` exists, read its last five entries; do not
+   `design/no-median-feedback.md` exists, read its last five entries; do not
    create it for a read-only task. Classify the work as:
    - **full path** — a new interface, redesign, or feedback that changes a
      constraint; continue through steps 2–9;

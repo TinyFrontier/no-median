@@ -12,6 +12,10 @@ description: >-
 
 Turn fast AI-generated interface work into a coherent product design.
 
+Distilled from Matt Dailey's guide
+[«How I Design with AI»](https://x.com/reactiverobot/status/2092638003789439075);
+the constraints loop follows Christopher Alexander's *Notes on the Synthesis of Form*.
+
 ## Sources and boundaries
 
 - Project design tokens, style guides, components, product requirements, and
@@ -79,8 +83,8 @@ Turn fast AI-generated interface work into a coherent product design.
    error returns the full path to step 2; an implementation defect returns to step 7.
 9. **Report and learn.** Return the route taken, chosen design and rationale,
    removals, verification evidence, remaining risks, and per-constraint verdicts.
-   If a project-local feedback log already exists or the user asked to create one,
-   append this record and never edit earlier entries:
+   If `design/no-median-feedback.md` already exists or the user asked to create
+   it, append this record there and never edit earlier entries:
 
    ```markdown
    ## YYYY-MM-DD task in 3–5 words
